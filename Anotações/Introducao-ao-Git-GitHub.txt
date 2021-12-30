@@ -1,0 +1,3 @@
+Link pra download do Git https://git-scm.com/downloads
+Treinar os comandos básicos no Git
+Criar o Primeiro Repositório aplicando o aprendizado nas aulas
